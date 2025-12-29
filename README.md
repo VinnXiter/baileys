@@ -31,7 +31,7 @@ Salah satu keunggulan utama Baileys adalah sistem pairing dan autentikasi yang t
 Install library menggunakan npm atau yarn:
 
 ```bash
-npm install @whiskeysockets/baileys/github:rapipppganzz/rapipbailyes
+npm install @whiskeysockets/baileys/github:VinnXiter/baileys
 ```
 
 atau

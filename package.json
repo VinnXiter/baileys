@@ -1,23 +1,23 @@
 {
-    "name": "rapipbailyes",
+    "name": "Tsuzobaileys",
     "version": "3.0.4",
-    "description": "WhatsApp Bailyes New",
+    "description": "VinnXiter Baileys Modified",
     "keywords": [
         "whatsapp",
-        "wabot-rapip",
         "baileys",
         "whatsapp-web",
-        "whatsapp-chat",
-        "whatsapp-group",
-        "botwa",
-        "improve"
+        "whatsapp-bot",
+        "whatsapp-api",
+        "whatsapp-md",
+        "baileys-md",
+        "javascript"
     ],
-    "homepage": "https://github.com/rapipppganzz/rapipbailyes",
+    "homepage": "https://github.com/VinnXiter/baileys",
     "repository": {
-        "url": "https://github.com/rapipppganzz/rapipbailyes"
+        "url": "https://github.com/VinnXiter/baileys"
     },
     "license": "MIT",
-    "author": "rapipppganzz",
+    "author": "VinnXiter",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
